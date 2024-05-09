@@ -1,6 +1,9 @@
 # Coleccionista de Antiguedades
 ## Ejemplo de Colecciones y polimorfismo
-Una casa de antiguedades se dedica a coleccionar todo tipo de artefactos y elementos antiguos. Ademas de conservarlos acomodados se ocupa de refaccionarlos, como así también hacer refacciones para terceros
+Una casa de antiguedades se dedica a coleccionar todo tipo de artefactos y
+ elementos antiguos.
+ Ademas de conservarlos acomodados se ocupa de refaccionarlos, 
+ como así también hacer refacciones para terceros
 
 Las tareas básicas de la casa de antiguedades son:
 
